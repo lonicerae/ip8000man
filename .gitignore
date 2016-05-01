@@ -30,3 +30,9 @@
 
 # Debug files
 *.dSYM/
+<<<<<<< HEAD
+
+# Custom project file
+*.pro.user 
+=======
+>>>>>>> e24a10f2e628c36e4365f96d0fe419658e70f577
