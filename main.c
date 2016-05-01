@@ -103,7 +103,7 @@ int main(int argc, char **argv)
     char *redirect_url = NULL;
 
     /* output */
-    FILE *fd_pg;
+    FILE *fd_pg = NULL;
 
     /* split string */
     char *delimeter = "?";
